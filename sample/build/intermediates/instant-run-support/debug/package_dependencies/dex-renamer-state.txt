@@ -1,0 +1,10 @@
+#Fri Oct 20 23:27:03 IRST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7509f12b77e6cb487749bd1d89eb2aeab8dde33d
+base.1=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_b5838c4d371b1bf4ad18e01c9aa79ba79bc14505
+base.0=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_6c38aa0b1120c22a575a6266e08040d60f35eb00
+file.2=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7509f12b77e6cb487749bd1d89eb2aeab8dde33d\\classes.dex
+file.1=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_b5838c4d371b1bf4ad18e01c9aa79ba79bc14505\\classes.dex
+file.0=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_6c38aa0b1120c22a575a6266e08040d60f35eb00\\classes.dex

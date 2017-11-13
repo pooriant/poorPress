@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        >
+
+        <TextView
+            android:id="@+id/title_news_new"
+            style="@style/titleViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/sample_Title_Text"
+            android:gravity="center"
+            />
+
+        <View
+            android:layout_width="65dp"
+            android:layout_height="1dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:background="@color/dividerTextColor"
+            />
+
+        <TextView
+            android:id="@+id/section_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/subtitleViewStyle"
+            tools:text="life and style "
+            android:textAllCaps="true"
+            />
+        <TextView
+            android:id="@+id/time_and_date_new"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/subtitleViewStyle"
+            tools:text="25,jun 12:30"
+            />
+
+        <ImageView
+            android:id="@+id/image_detail_new"
+            android:layout_width="match_parent"
+            android:layout_height="247dp"
+            />
+
+        <TextView
+            android:id="@+id/text_full_new"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            tools:text="@string/sample_content_text"
+            style="@style/textViewStyle"
+            />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,4 @@
+#Fri Oct 20 23:27:04 IRST 2017
+base.0=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=F\:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_empty.png",
+        "source": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\src\\main\\res\\drawable-mdpi\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_error.png",
+        "source": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\src\\main\\res\\drawable-mdpi\\ic_error.png"
+    },
+    {
+        "merged": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stub.png",
+        "source": "F:\\android\\androidStudio\\project\\testproject\\PoorNews\\sample\\src\\main\\res\\drawable-mdpi\\ic_stub.png"
+    }
+]

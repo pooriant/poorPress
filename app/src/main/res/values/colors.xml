@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#da1919</color>
+    <color name="colorPrimaryDark">#af1010</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="mainTextColor">#8a000000</color><!-- black color with 54% opacity -->
+    <color name="titleTextColorDark">#DE000000</color><!-- black color with 87% opacity -->
+    <color name="titleTextColorLight">#FFFFFF</color><!-- white color  -->
+
+    <color name="disabledHintTextColorDark">#61000000</color><!-- black color with 38% opacity -->
+    <color name="backgroundTitleColor">#80000000</color><!-- black color with 50% opacity -->
+    <color name="dividerTextColor">#1e000000</color><!-- black color with 70% opacity -->
+
+</resources>

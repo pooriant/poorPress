@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:title="@string/Setting_Activity_Name">
+<ListPreference
+android:title="@string/Setting_Search_By_Tag_Name"
+android:entryValues="@array/Search_by_Tag_Value"
+android:entries="@array/Search_By_Tag_Name"
+android:defaultValue="@string/Setting_Search_By_Tag_Default_Value"
+android:key="@string/Setting_Search_By_Tag_Key"
+/>
+
+
+<EditTextPreference
+    android:key="@string/Search_Order_by_User_Input_Key"
+    android:title="@string/Search_Order_by_User_Input_Title"
+    android:inputType="text"
+    android:selectAllOnFocus="true"
+    android:defaultValue="@string/Search_Order_by_User_Input_Default_Value"/>
+
+
+
+</PreferenceScreen>

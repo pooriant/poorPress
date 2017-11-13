@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--NamesList Of List Prefrence -->
+    <array name="Search_By_Tag_Name">
+    <item>@string/Setting_Search_by_tag_Sport_Name</item>
+    <item>@string/Setting_Search_by_tag_Politic_Name</item>
+    <item>@string/Setting_Search_by_tag_LifeAndStyle_Name</item>
+    <item>@string/Setting_search_by_tag_Technology_Name</item>
+<item>@string/Setting_Search_by_tag_Fashion_Name</item>
+<item>@string/Setting_search_by_tag_Business_Name</item>
+<item>@string/Setting_search_By_Tag_Culture_Name</item>
+    </array>
+
+
+
+<!-- ValueList of items in list Prefrence -->
+    <array name="Search_by_Tag_Value">
+        <item>@string/Setting_Search_by_tag_Sport_Value</item>
+        <item>@string/Setting_Search_by_tag_Politic_Value</item>
+        <item>@string/Setting_Search_by_tag_LifeAndStyle_Value</item>
+<item>@string/Setting_search_by_tag_Technology_Value</item>
+<item>@string/Setting_Search_by_tag_Fashion_Value</item>
+<item>@string/Setting_search_by_tag_Business_Value</item>
+<item>@string/Setting_search_By_Tag_Culture_Value</item>
+
+
+    </array>
+
+</resources>

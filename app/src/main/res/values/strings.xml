@@ -1,0 +1,94 @@
+<resources>
+
+    <string name="app_name">PoorNews</string>
+
+
+    <string name="MainActivity_Name">Poori Press</string>
+    <string name="Setting_Activity_Name">Setting Activity</string>
+
+
+    <!-- Setting for Order By Tag Preference and Search Preference -->
+    <string name="Setting_Search_By_Tag_Default_Value" translatable="false">@string/Setting_Search_by_tag_Politic_Value</string>
+    <string name="Setting_Search_By_Tag_Name">Order By</string>
+    <string name="Setting_Search_By_Tag_Key" translatable="false">tag</string>
+    <string name="Search_Order_by_User_Input_Key">@string/query_parameter_key</string>
+    <string name="Search_Order_by_User_Input_Default_Value">@string/query_parameter_value</string>
+
+    <string name="Search_Order_by_User_Input_Title">Search</string>
+
+
+
+
+    <!--List of Items with Name And Value that Use in OrderBy Tag Search  -->
+
+    <!-- Name and Value of Sport Tag [CHAR LIMIT=20] -->
+    <string name="Setting_Search_by_tag_Sport_Name">Sport</string>
+    <string name="Setting_Search_by_tag_Sport_Value" translatable="false">sport/sport</string>
+
+    <!-- Name and Value of Politic Tag [CHAR LIMIT=20] -->
+    <string name="Setting_Search_by_tag_Politic_Value" translatable="false">politics/politics</string>
+    <string name="Setting_Search_by_tag_Politic_Name">Politic</string>
+
+
+    <!-- Name and Value of LifeAndStyle Tag  -->
+    <string name="Setting_Search_by_tag_LifeAndStyle_Name">Life Style</string>
+    <string name="Setting_Search_by_tag_LifeAndStyle_Value" translatable="false">lifeandstyle/lifeandstyle</string>
+
+    <!-- Name and Value of Technology Tag  -->
+    <string name="Setting_search_by_tag_Technology_Name">Technology</string>
+    <string name="Setting_search_by_tag_Technology_Value" translatable="false">technology/technology</string>
+
+    <!-- Name and Value of Fashion Tag  -->
+    <string name="Setting_Search_by_tag_Fashion_Name">Fashion</string>
+    <string name="Setting_Search_by_tag_Fashion_Value" translatable="false">fashion/fashion</string>
+
+
+    <!-- Name and Value of Business Tag  -->
+    <string name="Setting_search_by_tag_Business_Name">Business</string>
+    <string name="Setting_search_by_tag_Business_Value" translatable="false">business/business</string>
+
+    <!-- Name and Value of Culture Tag  -->
+    <string name="Setting_search_By_Tag_Culture_Name">Culture</string>
+    <string name="Setting_search_By_Tag_Culture_Value" translatable="false">culture/culture</string>
+
+
+
+    <!-- list of massages in app  -->
+    <string name="Internet_access_error">No Internet Connection :(</string>
+    <string name="listISEmptyMassage">Data not Found . Please Try Again</string>
+
+    <!-- list items of news -->
+    <string name="Title_of_Article">titleNews</string>
+    <string name="Main_Of_Article">bodyNews</string>
+    <string name="Image_Url_Adress_Of_Article">imageAdress</string>
+    <string name="Url_Adress_Of_Article">urlAdress</string>
+    <string name="Time_And_Date_Of_Article">time</string>
+
+    <!--  Parameters Key and Value for Url  -->
+    <string name="format_parameter_key">format</string>
+    <string name="format_parameter_Value">json</string>
+    <string name="page_Size_parameter_key">pageSize</string>
+    <string name="page_Size_parameter_value">10</string>
+    <string name="date_parameter_key">from-date</string>
+    <string name="date_parameter_value">2015-01-01</string>
+    <string name="order_by_parameter_key">order-by</string>
+    <string name="order_by_parameter_value">newest</string>
+    <string name="query_parameter_key">q</string>
+    <string name="query_parameter_value"> </string>
+
+
+
+
+
+    <string name="sample_content_text">this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app
+    this is a simple text that we have been using to show how content will be seem if we run on app</string>
+
+    <string name="sample_Title_Text">This is title news</string>
+    <string name="title_Of_Share_News">Read This News From PooriPress App</string>
+</resources>
